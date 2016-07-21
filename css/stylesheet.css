@@ -111,7 +111,7 @@ p {
 }
 
 /********** Mobile **********/
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   .col-tx-1, .col-tx-2, .col-tx-3, .col-tx-4, .col-tx-5, .col-tx-6, .col-tx-7, .col-tx-8, .col-tx-9, .col-tx-10, .col-tx-11, .col-tx-12 {
     float: left;
     border: 1px solid green;
@@ -152,4 +152,4 @@ p {
   .col-tx-12 {
     width: 100%;
   }
-}S
+}*/
